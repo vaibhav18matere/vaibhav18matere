@@ -7,7 +7,7 @@
 - 📄 Want to hire me? Check out my [Resume](https://drive.google.com/file/d/1uT3lgPufAMn3hc3xfObXBvTIBX9BYLGN/view?usp=sharing)
 - ⚡ Fun facts : I love to document stuff, reading non-fiction books & I enjoy watching stand up comedy.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav18matere&show_icons=true&theme=onedark&layout=compact)
-)]
+]
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav18matere&langs_count=8&layout=compact)]
 
 

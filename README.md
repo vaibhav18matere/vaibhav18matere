@@ -1,6 +1,6 @@
 ### Hey 👋 , I'm Vaibhav Matere
-1. abc
-2. def
+-  abc
+-  def
 👨‍💻 I’m currently learning Full Stack Web Developement !
 🌱 I am Polishing my Skills in ReactJs, NodeJs, ExpressJs and MongoDb.
 👨‍💻 I like to showcase my work, check it out [projects](https://vaibhavmatere.netlify.app/projects.html)

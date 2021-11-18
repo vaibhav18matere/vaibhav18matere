@@ -5,4 +5,4 @@
 - 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or in case you prefer [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
 - 📫 Drop your query on vpm00718897@gmail.com
 - 📄 Want to hire me? Check out my [Resume](https://drive.google.com/file/d/1uT3lgPufAMn3hc3xfObXBvTIBX9BYLGN/view?usp=sharing)
-- ⚡ Fun fact I love document stuff, read about share market, crypto & I enjoy watching stand up comedy.
+- ⚡ Fun facts : I love to document stuff, read about share market, crypto, reading non-fiction books & I enjoy watching stand up comedy.

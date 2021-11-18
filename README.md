@@ -10,4 +10,4 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav18matere&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav18matere)](https://github.com/anuraghazra/github-readme-stats)
+

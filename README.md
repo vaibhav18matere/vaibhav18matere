@@ -13,4 +13,4 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavmatere/)
 [![My Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaibhavmatere.netlify.app/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhav_matere)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav18matere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav18matere" /> </p>
+<small align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav18matere&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav18matere" /> </small>

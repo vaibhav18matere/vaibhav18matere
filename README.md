@@ -1,7 +1,7 @@
 ### Hey 👋 , I'm Vaibhav Matere
 - 👨‍💻 I’m currently learning Full Stack Web Developement 🌱 polishing my skills in **ReactJs, NodeJs, ExpressJs and MongoDB.**
 - 👨‍💻 I like to showcase my work, check it out here : [Projects](https://vaibhavmatere.netlify.app/projects.html)
-- 📝 I love to write technical blogs to help beginners get started! Check them out here : [Blogs](https://vaibhavmatere.netlify.app/blogs.html)
+- 📝 I love to write technical blogs! Check them out here : [Blogs](https://vaibhavmatere.netlify.app/blogs.html)
 - 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or in case you prefer [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 - ⚡ Fun facts : I love to document stuff, reading non-fiction books & I enjoy watching stand up comedy.

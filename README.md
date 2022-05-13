@@ -31,9 +31,13 @@
 <table align="center">
   <tr>
     <td width="50%">
-- [The rise and rise of JavaScript](https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js)
-- [Why we import CSS & JavaScript files in HTML like this ?](https://www.linkedin.com/pulse/why-we-import-css-javascript-files-html-like-vaibhav-matere-/?trackingId=V3Whs9EAQXCzJPk9NAcIfg%3D%3D)
+
+- [The rise and rise of JavaScript](https://www.linkedin.com/pulse/rise-javascript-vaibhav-matere/)
 - [What is Hacktoberfest & Why should we care about it ?](https://www.linkedin.com/pulse/what-hactoberfest-why-should-you-care-vaibhav-matere/)
+- [Why we import CSS & JavaScript files in HTML like this ?](https://www.linkedin.com/pulse/why-we-import-css-javascript-files-html-like-vaibhav-matere-/?trackingId=V3Whs9EAQXCzJPk9NAcIfg%3D%3D)
+- [Power of connections and networking](https://www.linkedin.com/pulse/power-connections-networking-vaibhav-matere/)
+
+ 
 </td>
   </tr>
 </table>

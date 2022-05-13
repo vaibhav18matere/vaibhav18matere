@@ -26,6 +26,20 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 -----
+## ✍️ Recent Blog Posts
+
+<table align="center">
+  <tr>
+    <td width="50%">
+- [The rise and rise of JavaScript](https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js)
+- [Why we import CSS & JavaScript files in HTML like this ?](https://www.linkedin.com/pulse/why-we-import-css-javascript-files-html-like-vaibhav-matere-/?trackingId=V3Whs9EAQXCzJPk9NAcIfg%3D%3D)
+- [What is Hacktoberfest & Why should we care about it ?](https://www.linkedin.com/pulse/what-hactoberfest-why-should-you-care-vaibhav-matere/)
+</td>
+  </tr>
+</table>
+
+-----
+  
 ## 🌍 Find Me Around The Web
 
 <a href="https://twitter.com/vaibhav_matere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

@@ -5,10 +5,6 @@
 - 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or in case you prefer [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 - ⚡ Fun facts : I love to Document stuff, reading Non-Fiction Books, Business Case Studies & I enjoy watching Stand Up Comedy.
------ 
-
-## 📊 Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaibhav18matere&show_icons=true&theme=gotham" alt="Vaibhav MAtere Github Stats" />
 -----
 
 ## ✍️ Recent Blog Posts
@@ -29,7 +25,7 @@
 
 -----
   
-## 🌍 Find Me Around The Web
+### 🌍 Find Me Around The Web
 
 <a href="https://twitter.com/vaibhav_matere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/vaibhav18matere"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>

@@ -36,6 +36,3 @@
 <a href="https://medium.com/@vaibhavmatere"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://vaibhavmatere.netlify.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 -----
-<div>
-  <a href="https://www.buymeacoffee.com/vaibhavmatere"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</div>

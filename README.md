@@ -6,9 +6,9 @@
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 -----
 
-## ✍️ Recent Blog Posts
+### ✍️ Recent blogs
 
-<table align="center">
+<table>
   <tr>
     <td width="50%">
 
@@ -22,7 +22,33 @@
   </tr>
 </table>
 
+---
+
+### :hammer_and_wrench: Skills and Tools :
+<table>
+  <tr>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>Bootstrap</td>
+      <td>ANT Design</td>
+      <td>JavaScript</td>
+      <td>React.js</td>
+  </tr>
+  <tr>
+      <td>React query</td>
+      <td>TypeScript</td>
+      <td>Nodejs</td>
+      <td>Git & GitHub</td>
+      <td>Figma Design</td>
+      <td>JIRA</td>
+  <tr/>
+</table>
+
+---
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav18matere&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+---
   
 ### 🌍 Find Me Around The Web
 

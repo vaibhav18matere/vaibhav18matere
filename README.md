@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
 
 - [The rise and rise of JavaScript](https://www.linkedin.com/pulse/rise-javascript-vaibhav-matere/)
 - [What is Hacktoberfest & Why should we care about it ?](https://www.linkedin.com/pulse/what-hactoberfest-why-should-you-care-vaibhav-matere/)
@@ -24,7 +24,7 @@
 
 ---
 
-### :hammer_and_wrench: Skills and Tools :
+### :hammer_and_wrench: Skills and Tools
 <table>
   <tr>
       <td>HTML</td>

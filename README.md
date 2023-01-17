@@ -45,6 +45,8 @@
 </table>
 
 ---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav18matere)](https://github.com/vaibhav18matere/github-readme-stats)
   
 ### 🌍 Find Me Around The Web
 

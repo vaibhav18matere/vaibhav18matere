@@ -37,14 +37,12 @@
       <td>React.js</td>
       <td>React query</td>
       <td>Redux</td>
-      <td>TypeScript</td>
   <tr/>
   <tr>
+      <td>TypeScript</td>
       <td>Node.js</td>
       <td>Express.js</td>
       <td>Mongo DB</td>
-      <td>Firebase</td>
-      <td>PostgreSQL</td>
   <tr/>
   <tr>
       <td>Git & GitHub</td>

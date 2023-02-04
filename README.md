@@ -27,20 +27,30 @@
 ### :hammer_and_wrench: Skills and Tools
 <table>
   <tr>
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>Bootstrap</td>
-      <td>ANT Design</td>
-      <td>JavaScript</td>
-      <td>React.js</td>
+      <td>HTML-5</td>
+      <td>CSS-3</td>
+      <td>Bootstrap-5</td>
+      <td>ANT Design V5</td>
   </tr>
   <tr>
+      <td>JavaScript-ES6</td>
+      <td>React.js</td>
       <td>React query</td>
+      <td>Redux</td>
       <td>TypeScript</td>
-      <td>Nodejs</td>
+  <tr/>
+  <tr>
+      <td>Node.js</td>
+      <td>Express.js</td>
+      <td>Mongo DB</td>
+      <td>Firebase</td>
+      <td>PostgreSQL</td>
+  <tr/>
+  <tr>
       <td>Git & GitHub</td>
       <td>Figma Design</td>
       <td>JIRA</td>
+      <td>Postman</td>
   <tr/>
 </table>
 

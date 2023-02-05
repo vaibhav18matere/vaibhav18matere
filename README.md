@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Vaibhav Matere
 - 🌱 Polishing my skills in **MERN Stack and JS Ecosystem**
-- 👨‍💻 I like to showcase my work, check out my [Projects](https://vaibhavmatere.netlify.app/projects.html)
-- 📝 I love to write technical [Blogs](https://vaibhavmatere.netlify.app/blogs.html)
+- 👨‍💻 I like to showcase my work, check out my [Projects](https://vaibhav-matere-portfolio-v2.vercel.app/)
+- 📝 I love to write technical [Blogs](https://vaibhav-matere-portfolio-v2.vercel.app/)
 - 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or in case you prefer [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 -----

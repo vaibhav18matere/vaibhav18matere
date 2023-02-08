@@ -29,23 +29,26 @@
   <tr>
       <td>HTML-5</td>
       <td>CSS-3</td>
-      <td>Bootstrap-5</td>
-      <td>ANT Design V5</td>
+      <td>JavaScript-ES6</td>
+      <td>Git & GitHub</td>
   </tr>
   <tr>
-      <td>JavaScript-ES6</td>
+      <td>Bootstrap-5</td>
+      <td>ANT Design V5</td>
+      <td>Tailwind CSS</td>
+  </tr>
+  <tr>
       <td>React.js</td>
       <td>React query</td>
-      <td>Redux</td>
+      <td>Redux</td>      
+      <td>TypeScript</td>
   <tr/>
   <tr>
-      <td>TypeScript</td>
       <td>Node.js</td>
       <td>Express.js</td>
       <td>Mongo DB</td>
   <tr/>
   <tr>
-      <td>Git & GitHub</td>
       <td>Figma Design</td>
       <td>JIRA</td>
       <td>Postman</td>

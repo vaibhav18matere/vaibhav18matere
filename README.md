@@ -88,6 +88,6 @@
 <a href="https://vaibhav-matere-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 
 
-### Support
+#### Support
 
-<a href="https://www.buymeacoffee.com/vaibhavmatere"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/vaibhavmatere"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" /></a>

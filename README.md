@@ -5,6 +5,10 @@
 - 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or in case you prefer [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 
+<details>
+<summary>📊 <b><i>GitHub Stats</i></b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav18matere&count_private=true&show_icons=true&theme=dark&text_color=e4e2e2" alt="Vaibhav Matere GitHub Stats" />
+</details>
 
 ### ✍️ Recent blogs
 
@@ -73,8 +77,6 @@
  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav18matere&count_private=true&show_icons=true&theme=dark&text_color=e4e2e2)](https://github.com/vaibhav18matere/github-readme-stats)
-  
 ### 🌍 Find Me Around The Web
 
 <a href="https://twitter.com/vaibhav_matere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

@@ -6,7 +6,7 @@
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 
 <details>
-<summary>📊 <b><i>GitHub Stats</i></b></summary>
+<summary>📊<b>GitHub Stats</b></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=vaibhav18matere&count_private=true&show_icons=true&theme=dark&text_color=e4e2e2" alt="Vaibhav Matere GitHub Stats" />
 </details>
 
@@ -56,7 +56,7 @@
   <tr/>
 </table>
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -75,17 +75,14 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-</p>
+</p> -->
 
-### 🌍 Find Me Around The Web
-
+<details>
+<summary>🌍<b>Find Me Around The Web</b></summary>
 <a href="https://twitter.com/vaibhav_matere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vaibhavmatere/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://vaibhavmatere.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://medium.com/@vaibhavmatere"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://vaibhav-matere-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-
-
-#### Support
-
 <a href="https://www.buymeacoffee.com/vaibhavmatere"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" /></a>
+</details>

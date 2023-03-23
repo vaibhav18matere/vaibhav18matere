@@ -36,6 +36,7 @@
       <td>Bootstrap-5</td>
       <td>ANT Design V5</td>
       <td>Tailwind CSS</td>
+      <td>Figma Design</td>
   </tr>
   <tr>
       <td>React.js</td>
@@ -44,12 +45,6 @@
       <td>TypeScript</td>
   <tr/>
   <tr>
-      <td>Node.js</td>
-      <td>Express.js</td>
-      <td>Mongo DB</td>
-  <tr/>
-  <tr>
-      <td>Figma Design</td>
       <td>JIRA</td>
       <td>Postman</td>
   <tr/>

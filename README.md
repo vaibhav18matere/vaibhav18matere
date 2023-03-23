@@ -47,6 +47,8 @@
   <tr>
       <td>JIRA</td>
       <td>Postman</td>
+      <td>Trello</td>
+      <td>Chrome Dev tools</td>
   <tr/>
 </table>
 

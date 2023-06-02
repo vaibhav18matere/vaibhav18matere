@@ -1,8 +1,7 @@
 ### Hello 👋 I'm Vaibhav Matere
 - 🌱 Polishing my skills in **MERN Stack and JS Ecosystem**
-- 👨‍💻 I like to showcase my work, check out my [Projects](https://vaibhav-matere-portfolio-v2.vercel.app/)
-- 📝 I love to write technical [Blogs](https://vaibhav-matere-portfolio-v2.vercel.app/)
-- 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or in case you prefer [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
+- 👨‍💻 I like to showcase my work, check out my projects and blogs [here]((https://vaibhav-matere-portfolio-v2.vercel.app/))
+- 💬 Hit me up, for any discussions on [Twitter](https://twitter.com/vaibhav_matere) or [LinkedIn](https://www.linkedin.com/in/vaibhavmatere/)
 - 📫 You can also drop your query over a mail at vpm00718897@gmail.com
 
 <details>
@@ -47,6 +46,12 @@
       <td>React query</td>
       <td>Redux</td>      
       <td>TypeScript</td>
+  <tr/>
+  <tr>
+      <td>Vue.js</td>
+      <td>Formik</td>
+      <td>Node.js</td>
+      <td>Express.js</td>
   <tr/>
   <tr>
       <td>JIRA</td>

@@ -59,6 +59,10 @@
       <td>Trello</td>
       <td>Chrome Dev tools</td>
   <tr/>
+  <tr>
+      <td>JEST</td>
+      <td>React Testing Library</td>
+  <tr/>
 </table>
 
 <!-- <p align="left">

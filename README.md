@@ -27,17 +27,17 @@
 
 
 
-### :hammer_and_wrench: Skills and Tools
+### 💡 Skills
 <table>
   <tr>
-      <td>HTML-5</td>
-      <td>CSS-3</td>
-      <td>JavaScript-ES6</td>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>JavaScript</td>
       <td>Git & GitHub</td>
   </tr>
   <tr>
-      <td>Bootstrap-5</td>
-      <td>ANT Design V5</td>
+      <td>Bootstrap</td>
+      <td>ANT Design</td>
       <td>Tailwind CSS</td>
       <td>Figma Design</td>
   </tr>
@@ -48,22 +48,30 @@
       <td>TypeScript</td>
   <tr/>
   <tr>
-      <td>Vue.js</td>
-      <td>Formik</td>
       <td>Node.js</td>
       <td>Express.js</td>
-  <tr/>
-  <tr>
-      <td>JIRA</td>
-      <td>Postman</td>
-      <td>Trello</td>
       <td>Chrome Dev tools</td>
-  <tr/>
-  <tr>
-      <td>JEST</td>
-      <td>React Testing Library</td>
+      <td>JEST & React Testing Library</td>
   <tr/>
 </table>
+
+<details>
+<summary>🔨<b>Tools I use</b></summary>
+<table>
+<tr>
+<td>JIRA</td>
+<td>Slack</td>
+<td>Linear</td>
+<td>MS Teams</td>
+<td>MS Excel</td>
+<td>Notion</td>
+<td>Bitbucket</td>
+<td>Trello</td>
+<td>Netlify</td>
+<td>Vercel</td>
+</tr>
+</table>
+</details>
 
 <!-- <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
